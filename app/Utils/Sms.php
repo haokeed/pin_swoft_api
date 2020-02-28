@@ -14,7 +14,7 @@ namespace App\Utils;
 class Sms{
 	const ACCESS_KEY_ID = '';// access_key_id
 	const ACCESS_KEY_SECRET = '';// access_key_secret
-	const SIGN_NAME = '邹志强';// 短信签名
+	const SIGN_NAME = '';// 短信签名
 
     /**
      * 发送短信方法
